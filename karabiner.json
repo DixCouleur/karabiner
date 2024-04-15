@@ -208,7 +208,7 @@
                     ]
                 }
             ],
-            "name": "origin",
+            "name": "Origin",
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },
@@ -231,7 +231,7 @@
                 },
                 "rules": [
                     {
-                        "description": "Keymap | emacs move",
+                        "description": "Keymap | Emacs move",
                         "manipulators": [
                             {
                                 "from": {
@@ -442,7 +442,7 @@
                         ]
                     },
                     {
-                        "description": "Keymap | emacs delete",
+                        "description": "Keymap | Emacs delete",
                         "manipulators": [
                             {
                                 "from": {
@@ -1302,7 +1302,7 @@
                     ]
                 }
             ],
-            "name": "remap",
+            "name": "Remap",
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },
